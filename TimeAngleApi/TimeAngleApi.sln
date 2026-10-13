@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAngleApi", "TimeAngleApi\TimeAngleApi.csproj", "{681F7142-D544-4D9E-B101-B107D5C1569B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAngleApi.Tests", "TimeAngleApi.Tests\TimeAngleApi.Tests.csproj", "{9DB4419D-CFE1-4C51-9262-51CE11A3B1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681F7142-D544-4D9E-B101-B107D5C1569B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681F7142-D544-4D9E-B101-B107D5C1569B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681F7142-D544-4D9E-B101-B107D5C1569B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681F7142-D544-4D9E-B101-B107D5C1569B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB4419D-CFE1-4C51-9262-51CE11A3B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB4419D-CFE1-4C51-9262-51CE11A3B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB4419D-CFE1-4C51-9262-51CE11A3B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB4419D-CFE1-4C51-9262-51CE11A3B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

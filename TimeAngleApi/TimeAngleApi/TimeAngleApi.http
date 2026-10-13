@@ -1,0 +1,12 @@
+@TimeAngleApi_HostAddress = http://localhost:5000
+
+GET {{TimeAngleApi_HostAddress}}/CalculateTimeAngle?time=03:00
+Accept: application/json
+
+###
+GET {{TimeAngleApi_HostAddress}}/CalculateTimeAngle?hour=3&minute=0
+Accept: application/json
+
+###
+GET {{TimeAngleApi_HostAddress}}/CalculateTimeAngle?time=15:30
+Accept: application/json
